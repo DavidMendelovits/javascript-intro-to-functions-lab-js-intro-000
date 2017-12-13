@@ -9,3 +9,4 @@ function logShout(string) {
 if logshout(string=string.toUpperCase) {
 console.log(string)
 }
+}
